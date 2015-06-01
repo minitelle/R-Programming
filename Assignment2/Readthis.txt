@@ -1,0 +1,11 @@
+Notes to self - 
+
+yup yup yup, read this. If you are taking the class you are likley to wonder why the heck you are getting stuck 
+after speding hours watching the lectures and feeling like you have learnt nothing. 
+You could be totally new at R (I am), so here what you will find not one, but about 3/4 of the people taking this class say.
+
+1. Course material is not leading to undersatanding the assignments. Take with a grain of salt. 
+2. Swirl is nice but yeah turn off fun mode unless you like cheerleaders. It's a nice into but by the end you will still 
+be a beginner, it's a cool intro.
+3. Search engines are a wonderful getaway to great learning sources. Berkelely EDU, Standford EDU, stackoverflow, etc. R programmers
+like to share and help, that in itself is awesome.
